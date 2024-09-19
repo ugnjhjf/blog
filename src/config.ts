@@ -52,21 +52,21 @@ export const profileConfig: ProfileConfig = {
   bio: 'Herrscher of Sentience',
   links: [
     {
-      name: 'Twitter',
-      icon: 'fa6-brands:twitter',       // Visit https://icones.js.org/ for icon codes
+      name: 'LinkedIn',
+      icon: 'fa6-brands:linkedin',       // Visit https://icones.js.org/ for icon codes
                                         // You will need to install the corresponding icon set if it's not already included
                                         // `pnpm add @iconify-json/<icon-set-name>`
-      url: 'https://twitter.com',
+      url: 'https://www.linkedin.com/in/david-shum-181595267/',
     },
     {
       name: 'email',
       icon: 'mdi-light:email',
-      url: 'https://store.steampowered.com',
+      url: 'mailto:rokidna@outlook.com',
     },
     {
       name: 'GitHub',
       icon: 'fa6-brands:github',
-      url: 'https://github.com/saicaca/fuwari',
+      url: 'https://github.com/ugnjhjf',
     },
   ],
 }
